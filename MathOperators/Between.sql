@@ -1,0 +1,1 @@
+select  name from cities where area between 2000 and 986421732;

@@ -1,0 +1,1 @@
+select name from cities where area not in (65663525,6839) and name='PIDUGURALLA';
