@@ -1,0 +1,1 @@
+select name, population/area as density from cities where population /area =0
