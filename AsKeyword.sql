@@ -1,0 +1,1 @@
+select comments.id as comment_id , p.id from photos as p join comments on p.id =comments.photo_id;
