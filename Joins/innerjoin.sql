@@ -1,0 +1,1 @@
+select url, username from photos join users on users.id = photos.user_id;
