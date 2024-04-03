@@ -1,0 +1,1 @@
+select name,price, least(price*0.5,400) from products;

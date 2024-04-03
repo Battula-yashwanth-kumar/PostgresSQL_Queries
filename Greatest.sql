@@ -1,0 +1,1 @@
+select name,weight, GREATEST(30,2*weight) from products;
